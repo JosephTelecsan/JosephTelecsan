@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated software engineering student at Miami University with hands-on experience in programming and problem-solving. Skilled in Python through coursework and personal projects, with growing knowledge of Java, C++, and web development fundamentals. Eager to apply coding expertise to real-world applications while continuing to strengthen abilities in algorithms, data structures, and software design.<br><br>
+Software Engineering student at Miami University with a passion for building functional, user-focused solutions. I enjoy the challenge of taking a complex problem and breaking it down into clean, efficient code. Whether I'm collaborating on a project or learning a new framework, I am driven by a curiosity for how things work and a commitment to continuous improvement in the ever-evolving tech landscape.<br><br>
 
 
 ## 🌐 Socials:
